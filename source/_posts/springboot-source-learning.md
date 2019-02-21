@@ -1,3 +1,8 @@
+---
+title: springboot-source-learning
+date: 2019-01-17
+---
+
 ## 初始化SpringApplication
 ### 识别应用类型：主要根据classpath中是否包含对应类型的类。
 1. 包含webflux,但是不包含mvc,jersy时类型为REACTIVE
